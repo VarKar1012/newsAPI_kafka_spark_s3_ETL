@@ -22,5 +22,6 @@
 
 **Checkout the source code in src folder.**
 
-_Your s3 bucket should look like this:_
-![s3_image](assets/images/s3_screenshot.png)
+_Your s3 bucket should look like this:_ 
+
+![s3_image](assets/images/s3_screenshot_out.png)
