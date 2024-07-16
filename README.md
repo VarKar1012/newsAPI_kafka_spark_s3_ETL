@@ -25,3 +25,5 @@
 _Your s3 bucket should look like this:_ 
 
 ![s3_image](assets/images/s3_screenshot_out.png)
+
+![s3_files_image](assets/images/s3_out_files.png)
